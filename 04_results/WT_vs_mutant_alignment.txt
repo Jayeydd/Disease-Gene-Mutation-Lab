@@ -1,0 +1,33 @@
+# Sequence Alignment Results
+
+---
+## Wild-Type vs Documented Variant
+Mutation: c.8326C>T | Effect: p.Arg2776Ter
+
+At position 8326 in the DNA, the codon changes from CGA to TGA. In the protein, this means arginine at position 2776 is replaced by a stop signal.
+
+| Item | Wild-Type | Documented Mutant |
+|---|---|---|
+| Total length | 2,871 amino acids | 2,775 amino acids |
+| Matching part | Entire sequence | Positions 1–2,775 identical |
+| Changed part | — | Last 96 residues never translated |
+| Reading frame | Intact | Still intact |
+| Stop codon | Normal end only | Early stop at position 2,776 |
+
+---
+## Wild-Type vs Artificial Deletion
+Mutation: c.100delG | Effect: Frameshift after codon 33
+
+Deleting one base near position 100 shifts how every codon is read from that point forward. The first 33 amino acids match perfectly, then everything changes  and a stop signal appears early.
+
+| Item | Wild-Type | Artificial Mutant |
+|---|---|---|
+| Total length | 2,871 amino acids | 34 amino acids only |
+| Matching part | Entire sequence | First 33 amino acids |
+| Changed part | — | All from position 34 onward scrambled |
+| Reading frame | Normal | Shifted permanently |
+| Stop codon | Normal end only | Early stop at position 34 |
+
+---
+### Quick Summary
+The documented mutation shortens the protein from the end but leaves most of it normal. The single-base deletion near the start damages almost the whole sequence showing that where and how a mutation happens changes everything.

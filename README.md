@@ -1,6 +1,6 @@
 # Disease-Gene-Mutation-Lab
 
-**Name:** [Your Full Name]
+**Name:** Jade Angela Suan
 
 **Disease/Phenotype:** Marfan Syndrome
 
@@ -16,4 +16,4 @@
 
 **Galaxy History Name:** Suan_Marfan_FBN1_Mutation_Lab
 
-**Date of Analysis:** 2026-09-16
+**Date of Analysis:** 2026-09-21

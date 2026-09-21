@@ -170,7 +170,7 @@ The wild-type FBN1 coding sequence (NM_000138.5) and protein sequence (NP_000129
 - Position 2776. The wild-type protein contains Arginine (Arg/R), whereas the mutant sequence introduces a stop codon, so no amino acid is present.
 
 25. Is only one amino acid affected?
-- No. Position 2776 is changed from an amino acid codon to a stop codon; additionally, all 96 C-terminal amino acids (positions 2770–2871) are completely absent from the translated mutant protein.
+- No. Position 2776 is changed from an amino acid codon to a stop codon; additionally, all 96 C-terminal amino acids (positions 2776–2871) are completely absent from the translated mutant protein.
 
 26. Are multiple downstream amino acids changed?
 - No. The reading frame remains unchanged, so upstream residues (1–2775) are identical to wild-type. Downstream amino acids are not changed, they are simply never translated because the stop codon ends translation early.
@@ -320,13 +320,15 @@ Dietz, H. (2022, February 17). FBN1-related Marfan syndrome. In M. P. Adam, J. F
 https://www.ncbi.nlm.nih.gov/books/NBK1335/
 
 MedlinePlus. (2020, August 18). Marfan syndrome. National Library of Medicine.
-https://medlineplus.gov/genetics/condition/marfan-syndrome/
 
-Milewicz, D. M., Braverman, A. C., De Backer, J., Morris, S. A., Boileau, C., Maumenee, I. H., Jondeau, G., Van Eyk, K., & Pyeritz, R. E. (2021). Marfan syndrome. Nature Reviews Disease Primers, 7(1), 64.
-https://doi.org/10.1038/s41572-022-00338-w
+https://medlineplus.gov/genetics/condition/marfan-syndrome/#inheritance
+
+Milewicz, D. M., Braverman, A. C., De Backer, J., Morris, S. A., Boileau, C., Maumenee, I. H., Jondeau, G., Evangelista, A., & Pyeritz, R. E. (2021). Marfan syndrome. Nature Reviews Disease Primers, 7(1), 64.
+https://www.nature.com/articles/s41572-021-00298-7
 
 National Center for Biotechnology Information. (2024, August 22). ClinVar accession VCV00016439.46: NM_000138.5(FBN1):c.8326C>T (p.Arg2776Ter). U.S. National Library of Medicine.
 https://www.ncbi.nlm.nih.gov/clinvar/variation/16439/
 
-National Center for Biotechnology Information. (2026, February 5). Homo sapiens fibrillin 1 (FBN1), transcript variant 1, mRNA (NCBI Reference Sequence: NM_000138.5). U.S. National Library of Medicine.
+National Center for Biotechnology Information. (2026, February 5). Homo sapiens fibrillin 1 (FBN1), transcript variant 1, mRNA (NCBI Reference Sequence NM_000138.5). U.S. National Library of Medicine. 
 https://www.ncbi.nlm.nih.gov/nuccore/NM_000138.5
+
